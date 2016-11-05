@@ -1,7 +1,5 @@
 ## Getting and Cleaning Data Course Project
 
-<<<<<<< HEAD
-=======
 This repository is about the submission of project for Getting and Cleaning Data course.
 
 ## Introduction
@@ -23,4 +21,3 @@ R script called run_analysis.R that does the following.
 
 ## Documents
 CodeBook.md (explain the variables and data) and output of result (cleanData.txt) are attached.
->>>>>>> origin/master
